@@ -1,1 +1,1 @@
-// write your code here
+const image = document.querySelector('#ramen-menu');
